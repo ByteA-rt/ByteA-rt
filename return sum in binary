@@ -1,0 +1,5 @@
+def add_binary(a,b):
+    x = (a + b)
+    y = str(bin(x))
+    z = y[2::]
+    return (z)
