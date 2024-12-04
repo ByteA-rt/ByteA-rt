@@ -1,0 +1,12 @@
+def is_isogram(string):
+    string = string.lower()
+    if len(string) <=1:
+        print ("a", True)
+        return True
+    elif len(string) > 1:
+        #Checks for if next letter is the next letter in the alphabet
+        for i in range(len(string)-1):
+            if string[i] > string[i+1]:
+                print (string[i])
+                print ("b", False)
+                return False
