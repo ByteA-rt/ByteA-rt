@@ -1,0 +1,5 @@
+def dna_to_rna(dna):
+    
+    x = dna.replace("T", "U")   
+    print(x)
+    return (x)
