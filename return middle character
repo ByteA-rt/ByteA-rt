@@ -1,0 +1,13 @@
+def get_middle(s):
+    length = int(len(s))
+    middle  = int(length // 2)
+    if length == 1:
+        return (s)
+    elif length % 2 == 0:
+        first_middle = (middle - 1)
+        second_middle = (middle + 1)
+        return (s[first_middle: second_middle])   
+    elif length % 2 > 0:
+        return (s[middle])  
+    else:
+        return None
