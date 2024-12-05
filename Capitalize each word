@@ -1,9 +1,0 @@
-def to_jaden_case(string):
-    x=string.split()
-    print (x)
-    y=[]
-    for i in range(len(x)):
-        y.append((x[i].capitalize()))
-    y=(' '.join(y))
-    print (y)
-    return (y)

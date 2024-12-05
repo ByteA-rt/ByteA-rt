@@ -1,7 +1,0 @@
-def double_char(s):
-    x = []
-    for i in range(len(s)):
-        x.append(s[i])
-        x.append(s[i])
-    print(''.join(x))
-    return(''.join(x))
