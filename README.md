@@ -1,6 +1,3 @@
-# Codewars
-Solutions to problem solving
-=======
 👋 Hi there, I'm Sidi! <br>
  <br>
 🚀 About Me <br> <br>
