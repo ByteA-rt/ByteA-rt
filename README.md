@@ -11,10 +11,11 @@ What sets me apart is my ability to quickly grasp and implement new concepts, ev
 🎯 Proactive approach to learning, consistently completing advanced modules ahead of schedule <br>
  <br>
 🌱 Currently <br> <br>
-Mastering Python fundamentals and data structures through DataCamp <br>
-Sharpening problem-solving skills on CodeWars daily <br>
-Learning AWS Cloud fundamentals <br>
-Building data analysis projects using Python, Pandas, and NumPy <br>
+Mastering intermediate Python concepts (OOP, decorators, context managers) <br>
+Building data analysis projects with Pandas and NumPy <br>
+Learning AWS Cloud services for data processing <br>
+Practicing algorithmic problem-solving on CodeWars <br>
+Developing test-driven Python applications <br>
  <br>
 💼 Looking For <br> <br>
 Entry-level software engineering opportunities <br>
@@ -22,26 +23,36 @@ Collaboration on data analysis projects <br>
 Open source projects to contribute to <br>
  <br>
 💻 Tech Stack & Skills <br> <br>
- <br>
 🐍 Python Development <br>
 Core Python Wizardry <br>
-Crafting efficient solutions with Python's fundamental data structures (lists, tuples, dictionaries) <br>
-Building robust classes and implementing Object-Oriented Programming principles <br>
-Developing clean, reusable functions and mastering control flow <br>
-Expert handling of file operations and exception management <br>
+Object-Oriented Programming with classes and inheritance <br>
+Working with decorators and context managers <br>
+List comprehensions and generator expressions <br>
+Error handling and custom exceptions <br>
+File operations and data serialization <br>
  <br>
-📊 Data Science Arsenal <br>
+📊 Data Processing <br>
 Data Manipulation & Analysis <br>
-Pandas: Transforming and analyzing data with lightning speed <br>
-NumPy: Performing complex numerical computations and array operations <br>
-Creating insightful data visualizations <br>
-DataFrame manipulation and advanced data wrangling <br>
- <br>
+Pandas: DataFrame operations and data cleaning <br>
+NumPy: Array operations and numerical computing <br>
+Matplotlib/Seaborn: Data visualization <br>
+Regular expressions for text processing <br>
+JSON and CSV data handling <br>
+<br>
+🧪 Testing & Quality <br>
+Development Practices <br>
+Unit testing with pytest <br>
+Basic test-driven development <br>
+Code documentation and type hints <br>
+Git version control <br>
+Virtual environment management <br>
+<br>
 ☁️ Cloud Computing <br>
 AWS Foundations <br>
-Understanding cloud architecture and services <br>
-Working with AWS fundamentals <br>
-Learning cloud deployment strategies <br>
+S3 for data storage <br>
+Lambda for serverless functions <br>
+Basic EC2 instance management <br>
+IAM security fundamentals <br>
  <br>
 🛠️ Development Tools & Practices <br>
 Version Control: Git fundamentals and collaboration <br>
